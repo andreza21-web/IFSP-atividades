@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main () {
+int Ex02 () {
     char cadena[100], copia[100];
 
     cout << "Insira uma palavra" <<endl;
